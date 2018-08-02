@@ -5,7 +5,7 @@
         {
 			"name" : "Christoph Kempen",
 			"email" : "christoph@downsized.nl"
-		},
+		}
 	],
 	"keywords" : [
 		"UUID RFC4122"
