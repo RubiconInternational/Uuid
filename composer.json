@@ -34,10 +34,10 @@
 		"paragonie/random_compat": "A random_bytes Php 5.x polyfill."
 	},
     "extra": {
-        "laravel": {
-            "aliases": {
-                "Uuid": "rubiconinternational\\Uuid\\UuidFacade"
-            }
+        "branch-alias": {
+            "dev-master": "1.0-dev"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
